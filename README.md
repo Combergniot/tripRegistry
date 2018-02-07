@@ -1,6 +1,8 @@
 basic project info
 
-Program for local tourist office to manage trips. Form of application submission + export to database, CRUD, export to excel from database, report-manager, etc. 
+Program for local tourist office to manage trips. Form of application submission + export to database, CRUD,
+export to excel from database, report-manager, etc. 
+
 Repository for copernicana app
 
 Quick summary
